@@ -66,6 +66,7 @@ function switchAnalyzeColor(color) {
 	}
 }
 switchAnalyzeColor(randomColor);
+console.log("vjp")
 /**
  * TODO:
  * Prompt the user for a color when the page loads, and pass the input from the
